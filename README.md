@@ -14,3 +14,4 @@ A temporary landing page for Substio.
 * Only commit "clean" code
 * Try to do unit tests as often as possible
 * Review other members' contributions if the code that they have written is of vital importance
+* Handle exceptions and log error messages
