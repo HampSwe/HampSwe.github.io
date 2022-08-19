@@ -1,7 +1,7 @@
 # Substio
 
 ### About
-A temporary landing page for Substio.
+This repository hosts the codebase for the startup Substio.
 
 <br>
 
