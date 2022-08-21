@@ -3,8 +3,6 @@
 ### About
 A temporary landing page for Substio.
 
-<br>
-
 ### Personal Rules
 
 * Write everything (variable names, commit messages etc.) in English
